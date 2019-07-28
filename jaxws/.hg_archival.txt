@@ -1,0 +1,5 @@
+repo: 0961a4a211765fea071b8dac419003ee0c3d5973
+node: 51bafda870a929e22bd7cefe44ea2cd1efc7303b
+branch: default
+latesttag: jdk8u60-b28
+latesttagdistance: 1
